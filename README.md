@@ -5,8 +5,7 @@ Passwd as a Service
 
 ### Introduction ###
 This application is a result of an interview coding challenge that demonstrates a minimal web service that exposes the
-content of /etc/passwd and /etc/group. It is obviously not meant to be used in the real world in any matter due to
-security concerns, but serves merely to highlight using spring boot to write a simple and clean web service. 
+content of /etc/passwd and /etc/group. It is obviously not meant to be used in the real world due to security concerns, but serves merely to highlight using spring boot to write a simple and clean web services. 
 
 ### Requirement ###
 
