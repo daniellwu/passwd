@@ -1,0 +1,4 @@
+nobody:*:-2:
+nogroup:*:-1:
+# bad line because of too few fields
+wheel:*:
